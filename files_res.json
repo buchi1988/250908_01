@@ -1,0 +1,114 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "csrf": {
+    "name": "ENO_CSRF_TOKEN",
+    "value": "EXAM-PLEW-R1CD-BNF7-G8UC-KT52-MGUA-UBE1"
+  },
+  "data": [
+    {
+      "id": "000000800000000C0000000000000000",
+      "type": "string",
+      "cestamp": "857FEB80000045FC5994CC0A00000012",
+      "dataelements": {
+        "title": "Fruits.docx",
+        "name": "string",
+        "comments": "Filecomments",
+        "locker": "string",
+        "fileType": " ",
+        "dimension": "",
+        "length": "",
+        "revision": "string",
+        "originated": "",
+        "modified": "",
+        "receipt": "string",
+        "keepLocked": "string",
+        "format": "generic",
+        "store": "string",
+        "fileSize": "11900",
+        "fileChecksum": "{MD5}7db42b2d31d0c04e77865b4fdff71a72"
+      },
+      "relateddata": {
+        "ownerInfo": [
+          {
+            "id": "000000800000000C0000000000000000",
+            "type": "string",
+            "cestamp": "857FEB80000045FC5994CC0A00000012",
+            "dataelements": {
+              "name": "VPLMAdminUser",
+              "firstname": "AdminUser",
+              "lastname": "VPLM",
+              "email": "VPLMAdminUser@3ds.com"
+            }
+          }
+        ],
+        "lockerInfo": [
+          {
+            "id": "000000800000000C0000000000000000",
+            "type": "string",
+            "cestamp": "857FEB80000045FC5994CC0A00000012",
+            "dataelements": {
+              "name": "VPLMAdminUser",
+              "firstname": "AdminUser",
+              "lastname": "VPLM",
+              "email": "VPLMAdminUser@3ds.com"
+            }
+          }
+        ],
+        "versions": [
+          {
+            "id": "000000800000000C0000000000000000",
+            "type": "string",
+            "cestamp": "857FEB80000045FC5994CC0A00000012",
+            "dataelements": {
+              "title": "Fruits.docx",
+              "name": "string",
+              "comments": "Filecomments",
+              "locker": "string",
+              "fileType": " ",
+              "dimension": "",
+              "length": "",
+              "revision": "string",
+              "originated": "",
+              "modified": "",
+              "receipt": "string",
+              "keepLocked": "string",
+              "format": "generic",
+              "store": "string",
+              "fileSize": "string",
+              "fileChecksum": "string"
+            },
+            "relateddata": {
+              "ownerInfo": [
+                {
+                  "id": "000000800000000C0000000000000000",
+                  "type": "string",
+                  "cestamp": "857FEB80000045FC5994CC0A00000012",
+                  "dataelements": {
+                    "name": "VPLMAdminUser",
+                    "firstname": "AdminUser",
+                    "lastname": "VPLM",
+                    "email": "VPLMAdminUser@3ds.com"
+                  }
+                }
+              ],
+              "lockerInfo": [
+                {
+                  "id": "000000800000000C0000000000000000",
+                  "type": "string",
+                  "cestamp": "857FEB80000045FC5994CC0A00000012",
+                  "dataelements": {
+                    "name": "VPLMAdminUser",
+                    "firstname": "AdminUser",
+                    "lastname": "VPLM",
+                    "email": "VPLMAdminUser@3ds.com"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
